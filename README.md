@@ -1,1 +1,1 @@
-# Food-Ordering-Mobile-App
+please refer contributor guidelines before committing anything
